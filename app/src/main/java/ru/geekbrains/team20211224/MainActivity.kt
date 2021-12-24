@@ -6,12 +6,14 @@ import android.widget.Button
 
 class MainActivity : AppCompatActivity() {
 
-    var button: Button? = null
+    private var button: Button? = null
+    private var btn: Button? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
         button = findViewById(R.id.button)
+        btn = findViewById(R.id.button)
     }
 }

@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Team 2021 12 24</string>
     <string name="hello_team2">Hello Team2!</string>
+    <string name="some_text">some text</string>
 </resources>
