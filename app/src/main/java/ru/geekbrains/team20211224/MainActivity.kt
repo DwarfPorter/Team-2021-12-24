@@ -14,6 +14,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         button = findViewById(R.id.button)
-        btn = findViewById(R.id.button)
+        btn = findViewById(R.id.button1)
     }
 }
